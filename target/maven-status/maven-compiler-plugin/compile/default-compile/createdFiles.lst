@@ -1,0 +1,5 @@
+com\Notetaker\Servlets\Delete.class
+com\Notetaker\entity\Note.class
+com\Notetaker\Servlets\ViewNotes.class
+com\Notetaker\helper\FactoryProvider.class
+com\Notetaker\Servlets\AddNotes1.class
